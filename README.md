@@ -1,2 +1,2 @@
-# GBC-Kodluyoruz
-Hackathon yarışması için katılımcı
+# GBC-Kodluyoruz Yarışması
+Merhaba 👋. Başlangıç Sayfası "Ana Sayfa.html"dir.
