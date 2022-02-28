@@ -1,2 +1,2 @@
-# GBC-Kodluyoruz Yarışması
-<b>Merhaba 👋! Başlangıç Sayfası "GBC-Kodluyoruz" klasöründe "Ana Sayfa.html"dir.</b>
+# GBC-Kodluyoruz Competetion
+Hello, in this competetion we designed a web page which is similiar to [Kodluyoruz](https://www.kodluyoruz.org/ "Kodluyoruz Home Page") 
