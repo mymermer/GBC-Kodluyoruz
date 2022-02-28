@@ -1,2 +1,3 @@
 # GBC-Kodluyoruz Yarışması
-Merhaba 👋! Başlangıç Sayfası "GBC-Kodluyoruz" klasöründe "Ana Sayfa.html"dir.
+About
+<b>Merhaba 👋! Başlangıç Sayfası "GBC-Kodluyoruz" klasöründe "Ana Sayfa.html"dir.</b>
